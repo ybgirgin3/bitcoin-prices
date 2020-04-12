@@ -1,5 +1,5 @@
 ## Digital Coin Prices Displayer
 You can get bitcoin, ethereum and bnb prices from terminal
-Used api is from binance.com
+Used api is https://api.binance.com/api/v3/ticker/price
 Made with Python3
 Run "triarbit.py" file to make it work
