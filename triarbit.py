@@ -17,6 +17,10 @@ import connectionControl
 fee = 0.000750
 totalOrderPriceBTC = 0.01
 
+"""
+bu yorum satırı kontrol amaclı eklenmiştir
+"""
+
 # main loop
 # this loop needs to convert json file to the collectable in database
 def main():
