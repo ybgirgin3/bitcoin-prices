@@ -1,5 +1,11 @@
 # -*- coding: utf8 -*-
 # Filename terminal_cleaner.py
+
+"""
+this module cleans termianl
+"""
+
+
 import platform as plt
 import os
 
